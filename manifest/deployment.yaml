@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: tanabe3898/go-server-ci
+      - image: tatsuta3898/go-server-ci
         name: go-server-ci
