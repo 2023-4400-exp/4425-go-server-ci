@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: tatsuta3898/go-server-ci
+      - image: 2e2ad92d5ae96fea92f2973d73e96d02aa444af8
         name: go-server-ci
